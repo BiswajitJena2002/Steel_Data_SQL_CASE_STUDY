@@ -1,8 +1,6 @@
-create database Steel_Data
-go
+create database Steel_DataBase
 
-USE Steel_Data
-GO
+USE Steel_DataBase
 
 -- Create the Customers table
 CREATE TABLE Customers (
